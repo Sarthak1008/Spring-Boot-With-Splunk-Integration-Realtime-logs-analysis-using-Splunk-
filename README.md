@@ -19,3 +19,5 @@ Improved monitoring and troubleshooting capabilities for Spring Boot application
 Real-time visibility into application performance and user behavior.
 Enhanced proactive incident management through Splunk's alerting features.
 Streamlined development and deployment processes with automated log analysis.
+
+<img src="https://www.javacodegeeks.com/wp-content/uploads/2015/04/splunk-getting-started.png" alt="Splunk" width="1500">
